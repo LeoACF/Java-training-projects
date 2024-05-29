@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author leoco
+ *
+ */
+module mutantRegistrationApp {
+}
